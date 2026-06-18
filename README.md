@@ -23,7 +23,7 @@ Security: Environment variable protection and password hashing.
 Node.js (v16 or higher)
 MongoDB connection string (Atlas or Local)
 2️⃣ Installation
-git clone 
+git clone{https://github.com/dilum-shamilka/E-Shop-Backend.git} 
 cd E-Shop-Backend
 npm install
 npm run dev
